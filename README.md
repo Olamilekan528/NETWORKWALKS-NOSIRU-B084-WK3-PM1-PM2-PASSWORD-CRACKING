@@ -1,6 +1,6 @@
 # 🔓 Password Cracking Lab (JTR & NetworkWalks Tools)
 
-**Week 3 — Networkwalks Cybersecurity Internship, Batch B084**
+**Week 3  Networkwalks Cybersecurity Internship, Batch B084**
 
 ![Skill](https://img.shields.io/badge/Skill-Cybersecurity-red)
 ![Modules](https://img.shields.io/badge/Modules-PM1_%7C_PM2-blue)
@@ -27,7 +27,7 @@ A password-protected PDF does not store the password itself; it stores a **hash*
 
 ---
 
-## 3. Module 2 — Password Cracking with Networkwalks Tools (W3-PM2)
+## 3. Module 2  Password Cracking with Networkwalks Tools (W3-PM2)
 
 ### 3.1 Extracting the Hash
 
@@ -63,12 +63,12 @@ The PDF was opened using the password `password1`, confirming the crack was corr
 
 ---
 
-## 4. Module 1 — Password Cracking with JTR (W3-PM1)
+## 4. Module 1  Password Cracking with JTR (W3-PM1)
 
 ### 4.1 Tools Installed
 
-- **John the Ripper (JTR)** — `john-1.9.0-jumbo-1-win64`
-- **Johnny** — the graphical front-end for JTR
+- **John the Ripper (JTR)**  `john-1.9.0-jumbo-1-win64`
+- **Johnny**  the graphical front-end for JTR
 
 Johnny was configured to use `john.exe` from the `run` folder of the extracted John the Ripper package. Johnny confirmed the installation:
 
